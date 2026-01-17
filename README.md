@@ -17,22 +17,27 @@ This dashboard enables stakeholders to **move from descriptive metrics to action
 ## Business Questions, Insights & Implications
 ### 1. Which departments exhibit the highest attrition risk?
 **Insight:** Attrition is **unevenly distributed across departments**, with certain functions (notably Sales) showing consistently higher attrition rates compared to others.
+
 **Solution:** A one-size-fits-all retention strategy may be inefficient. Departments with elevated attrition require **targeted interventions**, such as role-specific engagement programs, workload evaluation, or incentive restructuring.
 
 ### 2. How does attrition vary across employee tenure?
 **Insight:** Employees within the **0–2 years tenure group** experience the highest attrition, with attrition rates declining significantly as tenure increases.
+
 **Solution:** Early-career attrition indicates potential gaps in **onboarding, role clarity, or early engagement**. Strengthening first-year employee experience can significantly improve overall retention.
 
 ### 3. Is compensation level associated with attrition?
 **Insight:** Attrition rates are highest within **lower income bands**, while higher income bands demonstrate greater retention stability.
+
 **Solution:** Compensation competitiveness appears to influence retention outcomes. Periodic pay benchmarking and targeted compensation reviews may reduce attrition among vulnerable income segments.
 
 ### 4. Are only low performers leaving the organization?
 **Insight:** Attrition is **not limited to low performers**. Mid-to-high performance employees also exhibit notable attrition rates.
+
 **Solution:** Retention risk extends beyond performance management. Organizations may need **differentiated retention strategies** for high-value talent, including career progression visibility and recognition mechanisms.
 
 ### 5. Where should leadership prioritize retention efforts?
 **Insight:** Departments combining **high attrition, lower average income, and shorter average tenure** represent the highest immediate risk areas.
+
 **Solution:** Leadership focus should prioritize **high-risk segments identified through combined metrics**, enabling efficient allocation of retention resources and minimizing preventable talent loss.
 
 ## Dashboard Structure
