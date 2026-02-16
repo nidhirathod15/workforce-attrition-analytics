@@ -1,4 +1,4 @@
-# workforce-attrition-analytics
+# Workforce Attrition Analytics
 ## Overview
 
 This project presents a **Power BI–based workforce analytics dashboard** designed to analyze employee attrition patterns across departments, tenure groups, income bands, and performance ratings.
