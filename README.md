@@ -71,7 +71,3 @@ This project uses a **static, enterprise-style HR dataset** to demonstrate workf
 ## Key Takeaway
 Attrition is driven by a **combination of tenure, compensation, and departmental factors**, rather than a single variable.
 Targeted, segment-specific retention strategies are likely to be more effective than broad, organization-wide initiatives.
-
-
-
-Tell me which one you want.
